@@ -9,7 +9,7 @@
 .container{
     width: 100vw;
     height: 100vh;
-    background-image: url(pics/BG.jpg);
+    background-image: url(BG.jpg);
     background-position: center;
     background-size: cover;
     padding: 0 8%;
